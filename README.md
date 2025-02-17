@@ -47,17 +47,5 @@ This project analyzes a **retail sales dataset** using **Microsoft Excel**, appl
 
 ---
 
-### 🔗 Let's Connect!  
-💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portfolio](#)  
-## 📂 Files  
-📁 `Retail_Sales_Data.xlsx` – Cleaned dataset with analysis  
-📁 `Sales_Report.xlsx` – Summary report with Pivot Tables & Charts  
-
-## 🚀 Future Enhancements  
-🔹 Expand analysis using **Power BI/Tableau**  
-🔹 Automate data processing with **Python or VBA**  
-
----
-
 🔗 **Let's Connect!**  
 💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portfolio](#)  
