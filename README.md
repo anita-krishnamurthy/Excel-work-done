@@ -4,7 +4,8 @@
 This project analyzes a **retail sales dataset** using **Microsoft Excel**, applying various functions and tools to uncover insights into sales performance. The goal is to enhance decision-making through data analysis and visualization.  
 
 ## 📊 Dataset Preview  
-![Retail Sales Dataset](image.png)  
+![image](https://github.com/user-attachments/assets/8d5b7025-902b-4ea7-b5b9-bd0a8dcb558e)
+
 *Screenshot of the analyzed dataset in Excel*  
 
 ## 🔍 Key Analysis & Features  
