@@ -7,6 +7,9 @@ This project analyzes a **retail sales dataset** using **Microsoft Excel**, appl
 ![image](https://github.com/user-attachments/assets/8d5b7025-902b-4ea7-b5b9-bd0a8dcb558e)
 
 *Screenshot of the analyzed dataset in Excel*  
+![image](https://github.com/user-attachments/assets/c06652b6-4b33-4ee9-bf13-a9895d503e15)
+
+
 
 ## 🔍 Key Analysis & Features  
 ✅ **Calculated Total Sales & Commission** (2023 & 2024 rates)  
