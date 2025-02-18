@@ -9,6 +9,9 @@ This project analyzes a **retail sales dataset** using **Microsoft Excel**, appl
 *Screenshot of the analyzed dataset in Excel*  
 ![image](https://github.com/user-attachments/assets/c06652b6-4b33-4ee9-bf13-a9895d503e15)
 
+*Screenshot of the analyzed dataset in Excel*  
+![image](https://github.com/user-attachments/assets/c8326117-bba2-4bba-b033-f39c0fd53c3e)
+
 
 
 ## 🔍 Key Analysis & Features  
@@ -35,7 +38,10 @@ This project analyzes a **retail sales dataset** using **Microsoft Excel**, appl
 📌 **Sales by Generations:**  
    - **Adult Customers:** **179,900 transactions**  
    - **Senior Customers:** **143,155 transactions**
-   - **Young Adult Customers:** **132,945 transactions**  
+   - **Young Adult Customers:** **132,945 transactions**
+📌 **Sales by Gender:**
+   - **Male Customers:** **1,216 transactions**  
+   - **Female Customers:** **1,298 transactions** 
 
 
 
