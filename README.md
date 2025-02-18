@@ -16,7 +16,7 @@ This project analyzes a **retail sales dataset** using **Microsoft Excel**, appl
 ✅ **Applied Excel formulas for data processing**  
 ✅ **Created Pivot Tables & Charts for visualization**  
 ✅ **Used Conditional Formatting** to highlight key metrics  
-✅ **Summarized total sales by category and gender**  
+✅ **Summarized total sales by category and generations**  
 
 ## 🛠️ Excel Functions Used  
 - 🔢 **Basic Functions:** `SUM`, `AVERAGE`, `UNIQUE`  
@@ -32,9 +32,12 @@ This project analyzes a **retail sales dataset** using **Microsoft Excel**, appl
    - **Beauty:** **£143,515**  
    - **Clothing:** **£155,580**  
    - **Electronics:** **£156,905**  
-📌 **Sales by Gender:**  
-   - **Male Customers:** **1,216 transactions**  
-   - **Female Customers:** **1,298 transactions**  
+📌 **Sales by Generations:**  
+   - **Adult Customers:** **179,900 transactions**  
+   - **Senior Customers:** **143,155 transactions**
+   - **Young Adult Customers:** **132,945 transactions**  
+
+
 
 ## 📂 Files Included  
 📁 `Retail_Sales_Data.xlsx` – Cleaned dataset with formulas and calculations  
